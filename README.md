@@ -13,6 +13,20 @@
 
 ---
 
+## 🎓 Études
+
+### 🏫 Holberton School (2025 - Aujourd’hui)
+**Ingénierie logicielle**
+
+- 💡 Formation intensive orientée projets (méthode peer-learning)
+- 🧠 Développement de compétences en :
+  - C, Python, JavaScript
+  - Sécurité informatique
+  - DevOps & systèmes Linux
+- 🚀 Réalisation de projets concrets en conditions réelles
+
+---
+
 ## 🛠️ Langages & Frameworks
 
 <p align="center">
@@ -36,19 +50,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JarodLgeOff&theme=tokyonight" />
 </p>
-
----
-## 🎓 Études
-
-### 🏫 Holberton School (2025 - Aujourd’hui)
-**Ingénierie logicielle**
-
-- 💡 Formation intensive orientée projets (méthode peer-learning)
-- 🧠 Développement de compétences en :
-  - C, Python, JavaScript
-  - Sécurité informatique
-  - DevOps & systèmes Linux
-- 🚀 Réalisation de projets concrets en conditions réelles
 
 ---
 
